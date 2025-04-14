@@ -1,5 +1,5 @@
-# AppDSR
-## Applied Data Science with R Specialization
+# APPDSR
+## Applied Data Science with R Specialization (5 course series)
 
 This Specialization is intended for anyone with a passion for learning who is seeking to develop the job-ready skills, tools, and portfolio to have a competitive edge in the job market as an entry-level data scientist. 
 
